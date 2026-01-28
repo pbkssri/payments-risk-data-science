@@ -1,0 +1,44 @@
+payments-risk-data-science/
+│
+├── 00_domain_foundations/
+│   ├── payments_overview.md
+│   ├── fraud_types.md
+│   ├── aml_transaction_monitoring.md
+│
+├── 01_data_analysis_sql_python/
+│   ├── sql_queries/
+│   │   ├── fraud_patterns.sql
+│   │   ├── velocity_checks.sql
+│   │   └── cross_border_risk.sql
+│   ├── notebooks/
+│   │   └── transaction_eda.ipynb
+│
+├── 02_feature_engineering/
+│   ├── velocity_features.ipynb
+│   ├── behavioral_features.ipynb
+│   └── geo_risk_features.ipynb
+│
+├── 03_models/
+│   ├── logistic_regression/
+│   ├── decision_tree/
+│   ├── random_forest/
+│   ├── xgboost/
+│   └── anomaly_detection/
+│
+├── 04_aml_risk_scoring/
+│   ├── rule_based_system.ipynb
+│   ├── ml_risk_scoring.ipynb
+│   └── alert_generation.ipynb
+│
+├── 05_model_explainability/
+│   ├── shap_analysis.ipynb
+│   └── business_explanations.md
+│
+├── 06_dashboarding/
+│   ├── powerbi/
+│   └── fraud_metrics.md
+│
+├── datasets/
+│
+├── README.md
+└── requirements.txt
