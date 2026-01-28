@@ -1,0 +1,71 @@
+# Payments Risk Data Science Portfolio
+
+This repository showcases my end-to-end learning and practical implementation of **Data Science applied to Payments, Fraud Detection, and AML Transaction Monitoring**.
+
+The focus is on **real-world banking and fintech use cases**, combining domain expertise with Python, SQL, Machine Learning, and explainable AI.
+
+---
+
+## 🔍 Problem Domains Covered
+- Card & Account Fraud Detection
+- AML Transaction Monitoring
+- Payment Risk Scoring
+- Cross-Border Transaction Risk
+- Rule-Based + ML Hybrid Systems
+- Model Explainability for Regulators
+
+---
+
+## 🧠 Skills & Tools
+- **Programming:** Python, SQL  
+- **Libraries:** pandas, numpy, scikit-learn, XGBoost, SHAP  
+- **Analytics:** Feature Engineering, Statistical Analysis  
+- **ML Models:** Logistic Regression, Tree-based Models, Anomaly Detection  
+- **Visualization:** Power BI / Tableau  
+- **Payments Domain:** SWIFT, SEPA, ISO 20022, AML/KYC  
+
+---
+
+## 📁 Repository Structure
+
+### 00_domain_foundations
+Core understanding of payments, fraud types, and AML workflows.
+
+### 01_data_analysis_sql_python
+Exploratory analysis of transaction data and SQL-based fraud detection logic.
+
+### 02_feature_engineering
+Creation of domain-driven features such as velocity, behavioral, and geo-risk indicators.
+
+### 03_models
+Implementation and evaluation of supervised and unsupervised ML models for fraud detection.
+
+### 04_aml_risk_scoring
+End-to-end AML transaction monitoring system with alert generation.
+
+### 05_model_explainability
+Explainable AI techniques to justify model decisions to compliance and regulators.
+
+### 06_dashboarding
+Risk and fraud monitoring dashboards for business stakeholders.
+
+---
+
+## 📊 Key Outcomes
+- Reduced false positives through feature engineering
+- Explainable ML models aligned with regulatory expectations
+- Hybrid rule + ML systems for production-ready monitoring
+- Business-focused interpretation of model outputs
+
+---
+
+## 🎯 Target Roles
+- Payment Risk Data Scientist  
+- Fraud Analytics Specialist  
+- AML / Transaction Monitoring Analyst  
+- Risk Analytics Consultant  
+
+---
+
+## 📌 Note
+All datasets used are public or synthetic and meant for educational and demonstration purposes only.
